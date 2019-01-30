@@ -1,8 +1,8 @@
 class Shoe
-  attr_accessor:title, :author, :page_count, :genre
+  attr_accessor:brand, :author, :page_count, :genre
   
-  def initialize(title)
-    @title = title
+  def initialize(brand)
+    @brand = brand
   end
   
   def turn_page
