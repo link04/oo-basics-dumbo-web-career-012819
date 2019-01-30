@@ -7,6 +7,7 @@ class Book
   attr_accessor:author_name
   attr_accessor:page_count
   attr_accessor:genre
+  attr_accessor:turn_the_page
 
 
   
